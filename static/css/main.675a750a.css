@@ -1,0 +1,2 @@
+div{align-items:center;background-color:cyan;display:flex;flex-direction:column;gap:20px;justify-content:center;padding:30px}button{background-color:red;cursor:pointer;height:30px;width:80px}button:hover{background-color:orange;transition:1s}input{height:40px;width:300px}ul{flex-direction:column}li,ul{align-items:center;display:flex;gap:20px;justify-content:center;padding:20px}@media screen and (max-width:768px){.container{padding:10px}input[type=text]{width:calc(100% - 20px)}}
+/*# sourceMappingURL=main.675a750a.css.map*/
